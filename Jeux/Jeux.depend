@@ -412,3 +412,45 @@
 	<SDL.h>
 	<SDL_image.h>
 
+1553512274 source:c:\users\samuel\desktop\jeux\main.c
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	"jeux.h"
+	"constantes.h"
+
+1553465270 c:\users\samuel\desktop\jeux\jeux.h
+	"morpion.c"
+	"puissance4.c"
+
+1553512685 c:\users\samuel\desktop\jeux\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	"fonctions.h"
+
+1553512641 c:\users\samuel\desktop\jeux\puissance4.c
+	<stdio.h>
+	<string.h>
+	<SDL.h>
+	<SDL_image.h>
+	"fonctions.h"
+
+1553512635 c:\users\samuel\desktop\jeux\constantes.h
+
+1553512661 source:c:\users\samuel\desktop\jeux\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1553512659 c:\users\samuel\desktop\jeux\fonctions.h
+	"fonctions.c"
+
+1553512661 c:\users\samuel\desktop\jeux\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+

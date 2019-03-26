@@ -48,6 +48,10 @@
 		<Unit filename="constantes.h">
 			<Option target="Release" />
 		</Unit>
+		<Unit filename="fonctions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fonctions.h" />
 		<Unit filename="jeux.h">
 			<Option target="Release" />
 		</Unit>
@@ -57,6 +61,10 @@
 		<Unit filename="morpion.c">
 			<Option compilerVar="CC" />
 			<Option target="Release" />
+		</Unit>
+		<Unit filename="puissance4.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
 			<code_completion />

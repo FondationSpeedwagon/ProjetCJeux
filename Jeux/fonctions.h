@@ -3,6 +3,6 @@
 
 #include "fonctions.c"
 
-int verif_morpion(int);
+void win_screen(SDL_Surface*, int)
 
 #endif // FONCTIONS_H_INCLUDED
