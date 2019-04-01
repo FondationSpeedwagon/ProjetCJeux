@@ -5,6 +5,7 @@
 #include "constantes.h"
 
 
+
 int main(int argc, char *argv[])
 {
     SDL_Surface *ecran = NULL, *menu = NULL;
@@ -37,12 +38,17 @@ int main(int argc, char *argv[])
                     if (event.button.y > 210 && event.button.y < 280)
                     {
                         SDL_FillRect(ecran, NULL, SDL_MapRGB(ecran->format, 0,0,0));
-                        morpion(ecran);
+                        select_morpion(ecran);
                     }
-                    else if (event.button.y > 350 && event.button.y < 430)
+                    else if (event.button.y > 310 && event.button.y < 380)
                     {
                         SDL_FillRect(ecran, NULL, SDL_MapRGB(ecran->format, 255,255,255));
                         puissance4(ecran);
+                    }
+                    else if (event.button.y > 410 && event.button.y < 480)
+                    {
+                        SDL_FillRect(ecran, NULL, SDL_MapRGB(ecran->format, 255,255,255));
+                        select_tronr(ecran);
                     }
                 }
             }
@@ -50,6 +56,7 @@ int main(int argc, char *argv[])
         }
         SDL_BlitSurface(menu, NULL, ecran, &position);
         SDL_Flip(ecran);
+
     }
 
 

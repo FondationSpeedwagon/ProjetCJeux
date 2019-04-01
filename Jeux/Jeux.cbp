@@ -46,23 +46,26 @@
 			<Add directory="$(#sdl.lib)" />
 		</Linker>
 		<Unit filename="constantes.h">
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="fonctions.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="fonctions.h" />
 		<Unit filename="jeux.h">
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="morpion.c">
 			<Option compilerVar="CC" />
-			<Option target="Release" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Unit filename="puissance4.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="structures.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="tronr.c">
 			<Option compilerVar="CC" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1553444885 source:a:\desktop\jeux\main.c
+1554135682 source:a:\desktop\jeux\main.c
 	<stdio.h>
 	<SDL.h>
 	<SDL_image.h>
@@ -196,16 +196,17 @@
 	"begin_code.h"
 	"close_code.h"
 
-1553442396 a:\desktop\jeux\fonctions.h
+1554061094 a:\desktop\jeux\fonctions.h
 	"fonctions.c"
 
-1553445671 a:\desktop\jeux\morpion.c
+1554131510 a:\desktop\jeux\morpion.c
 	<stdio.h>
 	<stdlib.h>
+	<time.h>
 	<SDL.h>
 	<SDL_image.h>
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl.h
 	"SDL_main.h"
 	"SDL_stdinc.h"
 	"SDL_audio.h"
@@ -224,14 +225,14 @@
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_main.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_main.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_stdinc.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_stdinc.h
 	"SDL_config.h"
 	<sys/types.h>
 	<stdio.h>
@@ -257,7 +258,7 @@
 	<stdlib.h>
 	"close_code.h"
 
-1326110987 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config.h
+1326114587 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config.h
 	"SDL_platform.h"
 	"SDL_config_dreamcast.h"
 	"SDL_config_macos.h"
@@ -267,16 +268,16 @@
 	"SDL_config_os2.h"
 	"SDL_config_minimal.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_platform.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_platform.h
 
-1326110994 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config_win32.h
+1326114594 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_config_win32.h
 	"SDL_platform.h"
 
-1326111000 c:\program files (x86)\codeblocks\sdl-1.2.15\include\begin_code.h
+1326114600 c:\program files (x86)\codeblocks\sdl-1.2.15\include\begin_code.h
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\close_code.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\close_code.h
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_audio.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_audio.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_endian.h"
@@ -286,24 +287,24 @@
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_error.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_error.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_endian.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_endian.h
 	"SDL_stdinc.h"
 	<endian.h>
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mutex.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mutex.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_thread.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_thread.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_mutex.h"
@@ -311,24 +312,24 @@
 	<process.h>
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_rwops.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_rwops.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cdrom.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cdrom.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cpuinfo.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_cpuinfo.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_events.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_events.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_active.h"
@@ -339,105 +340,107 @@
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_active.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_active.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keyboard.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keyboard.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_keysym.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keysym.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_keysym.h
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mouse.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_mouse.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_video.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_video.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_video.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"SDL_rwops.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_joystick.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_joystick.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_quit.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_quit.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_loadso.h
-	"SDL_stdinc.h"
-	"SDL_error.h"
-	"begin_code.h"
-	"close_code.h"
-
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_timer.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_loadso.h
 	"SDL_stdinc.h"
 	"SDL_error.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325738639 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_version.h
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_version.h
 	"SDL_stdinc.h"
 	"begin_code.h"
 	"close_code.h"
 
-1325810433 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_image.h
+1325814033 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl_image.h
 	"SDL.h"
 	"SDL_version.h"
 	"begin_code.h"
 	"close_code.h"
 
-1553436213 a:\desktop\jeux\jeux.h
+1554135682 a:\desktop\jeux\jeux.h
 	"morpion.c"
+	"puissance4.c"
+	"tronr.c"
 
-1553441282 a:\desktop\jeux\constantes.h
+1553516235 a:\desktop\jeux\constantes.h
 
-1553442608 a:\desktop\jeux\fonctions.c
+1554061094 a:\desktop\jeux\fonctions.c
 	<stdio.h>
 	<stdlib.h>
 	<SDL.h>
 	<SDL_image.h>
 
-1553512274 source:c:\users\samuel\desktop\jeux\main.c
+1554113851 source:c:\users\samuel\desktop\jeux\main.c
 	<stdio.h>
 	<SDL.h>
 	<SDL_image.h>
 	"jeux.h"
 	"constantes.h"
 
-1553465270 c:\users\samuel\desktop\jeux\jeux.h
+1554057183 c:\users\samuel\desktop\jeux\jeux.h
 	"morpion.c"
 	"puissance4.c"
+	"tronr.c"
 
-1553512685 c:\users\samuel\desktop\jeux\morpion.c
+1554114260 c:\users\samuel\desktop\jeux\morpion.c
 	<stdio.h>
 	<stdlib.h>
+	<time.h>
 	<SDL.h>
 	<SDL_image.h>
-	"fonctions.h"
 
-1553512641 c:\users\samuel\desktop\jeux\puissance4.c
+1554109368 c:\users\samuel\desktop\jeux\puissance4.c
 	<stdio.h>
 	<string.h>
 	<SDL.h>
 	<SDL_image.h>
-	"fonctions.h"
 
-1553512635 c:\users\samuel\desktop\jeux\constantes.h
+1553516235 c:\users\samuel\desktop\jeux\constantes.h
 
 1553512661 source:c:\users\samuel\desktop\jeux\fonctions.c
 	<stdio.h>
@@ -453,4 +456,84 @@
 	<stdlib.h>
 	<SDL.h>
 	<SDL_image.h>
+
+1554070722 c:\users\samuel\desktop\jeux\tronr.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<string.h>
+	"structures.h"
+
+1553516261 source:e:\jeux\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1553708065 source:e:\jeux\main.c
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	"jeux.h"
+	"constantes.h"
+
+1553707756 e:\jeux\jeux.h
+	"morpion.c"
+	"puissance4.c"
+	"tronr.c"
+
+1553879322 e:\jeux\morpion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL.h>
+	<dos.h>
+	<SDL_image.h>
+	"fonctions.h"
+
+1553516259 e:\jeux\fonctions.h
+	"fonctions.c"
+
+1553516261 e:\jeux\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1553516241 e:\jeux\puissance4.c
+	<stdio.h>
+	<string.h>
+	<SDL.h>
+	<SDL_image.h>
+	"fonctions.h"
+
+1553874177 e:\jeux\tronr.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+
+1553516235 e:\jeux\constantes.h
+
+1554060992 source:a:\desktop\jeux\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1554130003 a:\desktop\jeux\puissance4.c
+	<stdio.h>
+	<string.h>
+	<SDL.h>
+	<SDL_image.h>
+
+1554136999 a:\desktop\jeux\tronr.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<string.h>
+	"structures.h"
+
+1554039592 a:\desktop\jeux\structures.h
+
+1554039592 c:\users\samuel\desktop\jeux\structures.h
 
