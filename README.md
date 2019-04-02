@@ -15,9 +15,9 @@ Installation de la SDL 1.2 : <br/>D'abord
  Compiler avec <br/>
  ```gcc -o main main.c `sdl-config --cflags --libs` -lSDL_image -O3 -Wall```
 
-# Installation MacOS
+# ~~Installation MacOS~~
 
-Utilisez Windows ou Linux
+N'utilisez pas MacOS
 
 
 
