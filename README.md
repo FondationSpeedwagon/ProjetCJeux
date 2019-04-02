@@ -10,10 +10,10 @@ Installation de la SDL 1.2 : <br/>D'abord
  
  Plus besoin des dll<br/>
  
- sudo apt-get install libsdl1.2-dev <br/>
- sudo apt-get install libsdl-image1.2 libsdl-image1.2-dev<br/> 
+ ```sudo apt-get install libsdl1.2-dev``` <br/>
+ ```sudo apt-get install libsdl-image1.2 libsdl-image1.2-dev```<br/> 
  Compiler avec <br/>
- gcc -o main main.c `sdl-config --cflags --libs` -lSDL_image -O3 -Wall
+ ```gcc -o main main.c `sdl-config --cflags --libs` -lSDL_image -O3 -Wall```
 
 # Installation MacOS
 
