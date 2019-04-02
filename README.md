@@ -10,6 +10,8 @@ Installation de la SDL 1.2 : <br/>
  
  # Installation Linux
  
+ Plus besoin des dll<br/>
+ 
  sudo apt-get install libsdl1.2-dev
  
  <br/>
