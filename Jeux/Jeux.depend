@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1554135682 source:a:\desktop\jeux\main.c
+1554295026 source:a:\desktop\jeux\main.c
 	<stdio.h>
 	<SDL.h>
 	<SDL_image.h>
@@ -199,12 +199,13 @@
 1554061094 a:\desktop\jeux\fonctions.h
 	"fonctions.c"
 
-1554131510 a:\desktop\jeux\morpion.c
+1554295114 a:\desktop\jeux\morpion.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<SDL.h>
 	<SDL_image.h>
+	"structures.h"
 
 1325742239 c:\program files (x86)\codeblocks\sdl-1.2.15\include\sdl.h
 	"SDL_main.h"
@@ -402,12 +403,12 @@
 	"begin_code.h"
 	"close_code.h"
 
-1554135682 a:\desktop\jeux\jeux.h
+1554293746 a:\desktop\jeux\jeux.h
 	"morpion.c"
 	"puissance4.c"
 	"tronr.c"
 
-1553516235 a:\desktop\jeux\constantes.h
+1554293235 a:\desktop\jeux\constantes.h
 
 1554061094 a:\desktop\jeux\fonctions.c
 	<stdio.h>
@@ -415,32 +416,35 @@
 	<SDL.h>
 	<SDL_image.h>
 
-1554113851 source:c:\users\samuel\desktop\jeux\main.c
+1554299562 source:c:\users\samuel\desktop\jeux\main.c
 	<stdio.h>
 	<SDL.h>
 	<SDL_image.h>
 	"jeux.h"
 	"constantes.h"
 
-1554057183 c:\users\samuel\desktop\jeux\jeux.h
+1554299497 c:\users\samuel\desktop\jeux\jeux.h
 	"morpion.c"
 	"puissance4.c"
 	"tronr.c"
 
-1554114260 c:\users\samuel\desktop\jeux\morpion.c
+1554300714 c:\users\samuel\desktop\jeux\morpion.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<SDL.h>
 	<SDL_image.h>
+	"structures.h"
 
-1554109368 c:\users\samuel\desktop\jeux\puissance4.c
+1554300716 c:\users\samuel\desktop\jeux\puissance4.c
 	<stdio.h>
 	<string.h>
 	<SDL.h>
 	<SDL_image.h>
+	"constantes.h"
+	"structures.h"
 
-1553516235 c:\users\samuel\desktop\jeux\constantes.h
+1554300198 c:\users\samuel\desktop\jeux\constantes.h
 
 1553512661 source:c:\users\samuel\desktop\jeux\fonctions.c
 	<stdio.h>
@@ -457,12 +461,13 @@
 	<SDL.h>
 	<SDL_image.h>
 
-1554070722 c:\users\samuel\desktop\jeux\tronr.c
+1554307491 c:\users\samuel\desktop\jeux\tronr.c
 	<stdio.h>
 	<stdlib.h>
 	<SDL.h>
 	<string.h>
 	"structures.h"
+	"constantes.h"
 
 1553516261 source:e:\jeux\fonctions.c
 	<stdio.h>
@@ -470,26 +475,25 @@
 	<SDL.h>
 	<SDL_image.h>
 
-1553708065 source:e:\jeux\main.c
+1554319784 source:e:\jeux\main.c
 	<stdio.h>
 	<SDL.h>
 	<SDL_image.h>
 	"jeux.h"
 	"constantes.h"
 
-1553707756 e:\jeux\jeux.h
+1554299497 e:\jeux\jeux.h
 	"morpion.c"
 	"puissance4.c"
 	"tronr.c"
 
-1553879322 e:\jeux\morpion.c
+1554300714 e:\jeux\morpion.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<SDL.h>
-	<dos.h>
 	<SDL_image.h>
-	"fonctions.h"
+	"structures.h"
 
 1553516259 e:\jeux\fonctions.h
 	"fonctions.c"
@@ -500,19 +504,23 @@
 	<SDL.h>
 	<SDL_image.h>
 
-1553516241 e:\jeux\puissance4.c
+1554300716 e:\jeux\puissance4.c
 	<stdio.h>
 	<string.h>
 	<SDL.h>
 	<SDL_image.h>
-	"fonctions.h"
+	"constantes.h"
+	"structures.h"
 
-1553874177 e:\jeux\tronr.c
+1554307491 e:\jeux\tronr.c
 	<stdio.h>
 	<stdlib.h>
 	<SDL.h>
+	<string.h>
+	"structures.h"
+	"constantes.h"
 
-1553516235 e:\jeux\constantes.h
+1554300198 e:\jeux\constantes.h
 
 1554060992 source:a:\desktop\jeux\fonctions.c
 	<stdio.h>
@@ -520,13 +528,13 @@
 	<SDL.h>
 	<SDL_image.h>
 
-1554130003 a:\desktop\jeux\puissance4.c
+1554294993 a:\desktop\jeux\puissance4.c
 	<stdio.h>
 	<string.h>
 	<SDL.h>
 	<SDL_image.h>
 
-1554136999 a:\desktop\jeux\tronr.c
+1554295046 a:\desktop\jeux\tronr.c
 	<stdio.h>
 	<stdlib.h>
 	<SDL.h>
@@ -535,5 +543,7 @@
 
 1554039592 a:\desktop\jeux\structures.h
 
-1554039592 c:\users\samuel\desktop\jeux\structures.h
+1554300717 c:\users\samuel\desktop\jeux\structures.h
+
+1554300717 e:\jeux\structures.h
 
